@@ -1,0 +1,32 @@
+.main-languages-container {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-around;
+    box-sizing: border-box;
+    width: 700px;
+}
+
+.for-one-language-container {
+    width: 450px;
+    height: 150px;
+    border-radius: 100px;
+    border: greenyellow solid 1px;
+    margin: auto;
+/*     padding: auto;
+ */}
+
+.nested-for-one-language-container {
+    margin: auto;
+    padding: auto;
+    padding-top: 50px;
+}
+
+.for-all-links {
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.for-all-links:hover {
+    scale: 1.03;
+}

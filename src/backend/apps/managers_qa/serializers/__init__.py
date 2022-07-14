@@ -1,0 +1,3 @@
+from .for_serializers import ManagerDetailSerializersForProjects, QADetailSerializersForProjects
+from .qa_serializer import QADetailSerializers, QASerializers
+from .manager_serializier import ManagerDetailSerializers, ManagersSerializers

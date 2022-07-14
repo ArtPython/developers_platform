@@ -1,0 +1,52 @@
+.developer-main-container {
+    border: solid 1px rgb(221, 209, 209);
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.developer-small-container {
+    display: flex;
+/*     flex-direction: row;
+ */    margin: auto;
+    padding: auto;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.big-photo-container {
+    width: 350px;
+    height: 350px;
+/*     background-color:gray;
+ */    margin: auto;
+    padding: 70px;
+}
+
+.photo-container {
+    border-radius: 150px;
+    width: 270px;
+    height: 230px;
+    padding: auto;
+    margin: auto;
+}
+
+.additional-dveloper-container {
+    border: solid 1px rgb(221, 209, 209);
+    display: flex;
+    padding-left: 100px;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+}
+
+
+.mm_cl {
+    margin: auto;
+    padding: auto;
+/*     margin-bottom: 25px;
+ */    position: center;
+    width: 80%;
+}

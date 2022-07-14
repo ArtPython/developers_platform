@@ -1,0 +1,8 @@
+.main-projects-container {
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+}

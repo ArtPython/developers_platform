@@ -1,0 +1,58 @@
+.lang-frame-container {
+    border: 1px solid red;
+    border-radius: 50px;
+    margin: auto;
+    padding: auto;
+}
+
+.nested-lang-frame-container {
+    border: 1px solid rgba(45, 109, 204, 0.26);
+    border-radius: 50px;
+    margin: auto;
+    padding: auto;
+    width: 95%;
+    height: 95%;
+    transition: 0.3s;
+    opacity: 0.5;
+}
+
+.nested-lang-frame-container:hover {
+/*     scale: 1.03;
+ */    
+    box-shadow: 0 0 10px 5px rgba(224, 222, 215, 0.5);
+    opacity: 1;
+}
+
+.nested-frameworks-container {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.for-lan-img-container {
+    width: 150px;
+    height: 150px;
+}
+
+.photo-name-lang-container {
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
+.nested-p {
+    margin: auto;
+    padding: auto;
+}
+
+
+.lans-frames-together {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}

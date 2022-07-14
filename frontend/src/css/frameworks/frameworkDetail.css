@@ -1,0 +1,40 @@
+.main-div-here {
+    width: 85%;
+    margin: auto;
+}
+
+.nested-div-container{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding-left: 120px;
+    justify-content:left;
+    box-sizing: border-box;
+}
+
+.first-div {
+    width: 35%;
+/*     border: solid 1px red;
+ */}
+
+.second-div {
+    width: 65%;
+/*     border: solid 1px rgb(0, 153, 255);
+ */    font-size: 130px;
+    margin: auto;
+    padding: auto;
+}
+
+.second-div-2 {
+    width: 45%;
+/*     border: solid 1px rgb(0, 153, 255);
+ */    font-size: 70px;
+    margin: auto;
+    padding: auto;
+}
+
+.nested-another-frameworks {
+    width: 35%;
+/*     border: solid 1px red;
+ */    margin-left: 120px;
+}

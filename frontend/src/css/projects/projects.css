@@ -1,0 +1,20 @@
+.project-main-container {
+    border: solid 1px rgb(221, 209, 209);
+    display: flex;
+/*     flex-direction: row;
+ */    /* margin: auto; */
+    justify-content: space-around;
+/*     box-sizing: border-box;
+ */}
+
+.big-photo-container {
+    width: 350px;
+    height: 350px;
+    background-color:gray;
+    margin: auto;
+/*     padding: 70px;
+ */}
+
+.photo-container {
+    border-radius: 150px;
+}

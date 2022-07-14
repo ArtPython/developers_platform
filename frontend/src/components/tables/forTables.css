@@ -1,0 +1,10 @@
+.for-img {
+    width: 35px;
+    height: 35px;
+    transition: 0.5s;
+}
+
+.for-img :hover {
+    scale: 1.1;
+    box-shadow: 5px red;
+}

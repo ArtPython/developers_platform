@@ -1,0 +1,13 @@
+.developers-container {
+    background-color: rgb(146, 116, 70);
+    text-shadow: blue;
+}
+
+.add-developer {
+    background-color: chocolate;
+    border: 1px solid black;
+    width: 450px;
+    height: 350p;
+    margin: auto;
+    padding: auto;
+}
